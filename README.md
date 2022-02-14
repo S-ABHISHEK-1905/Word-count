@@ -15,7 +15,7 @@ Open the txt file in read mode using open().
 Using split() function to split the words in the txt file and count it.
 
 ## Step 4:
-Save the python program using .py extention.
+Save the python program using .py extension.
 
 ## Step 5:
 Run the python program in terminal to get the output.
