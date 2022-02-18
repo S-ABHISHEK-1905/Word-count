@@ -25,8 +25,7 @@ Number of words in the txt file is displayed as the output.
 
 ## PROGRAM:
 ```
-'''Reference no:21004872
-Developed by :Navya.v'''
+
 num_words =0
 with open('lines.txt','r') as file1:
      for i in file1:
