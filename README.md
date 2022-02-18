@@ -35,7 +35,7 @@ print("Number of words={0}".format(num_words))
 ```
 
 ### OUTPUT:
-![output](./image.png)
+![output](./image1.png)
 ![output](./image2.png)
 
 
